@@ -63,6 +63,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Aisera](https://aisera.com/) | Generative AI support and ticketing automation for enterprises. |
 | [AI Chatbot CX](https://aichatbot.cx/) | End-to-end AI chatbot platform for customer service. |
 | [BotStar](https://botstar.com/) | Visual chatbot builder for customer service and lead generation. |
+| [AskYura](https://askyura.com/) | Conversational AI for Business That Executes Tasks, Not Just Answers - No-code Builder. |
 | [Botpress](https://botpress.com/) | Open-source conversational AI stack for developers. |
 | [Botsonic](https://botsonic.com/) | No-code AI chatbot builder for websites and SaaS tools. |
 | [Botsify](https://botsify.com/) | Multilingual chatbot platform for websites, Messenger, and WhatsApp. |
