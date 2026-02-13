@@ -139,6 +139,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [SnatchBot](https://www.snatchbot.me/) | Free bot-building platform with multi-channel deployment. |
 | [Talkdesk](https://www.talkdesk.com/) | Enterprise contact center powered by AI. |
 | [TeamSupport](https://www.teamsupport.com/) | B2B customer support platform with customer insights. |
+| [Text AI Agent](https://www.text.com/) | AI agent for sales, live chat and help desk software. |
 | [Tidio](https://www.tidio.com/) | AI-powered live chat and chatbot for ecommerce. |
 | [UChat](https://uchat.com.au/) | Omni-channel AI chatbot builder for WhatsApp, Telegram, and web. |
 | [Uniphore](https://www.uniphore.com/) | Voice AI and conversation automation platform. |
