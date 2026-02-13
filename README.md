@@ -42,6 +42,7 @@ Here are some of the most trusted and effective customer support platforms, each
 | [Intercom](https://www.intercom.com/)                                          | SaaS Support              | Powerful & Popular platform for live chat, AI bots, product tours, & proactive messaging. |
 | [YourGPT AI](https://yourgpt.ai/)                                              | AI-First Customer Support | Complete AI platform with smart agents, helpdesk, voice AI, AI widget, & provactive chat. |
 | [Help Scout](https://www.helpscout.com/)                                       | SMBs & B2B Support        | Clean, email-like interface with built-in collaboration, docs, and automation tools.      |
+| [Text](https://www.text.com/)                                                  | AI-first Customer Service | AI agent for sales, live chat and help desk software.           |
 
 ---
 
@@ -98,6 +99,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [HappyFox](https://www.happyfox.com/) | Helpdesk, ticketing, and live chat under one roof. |
 | [Help Scout](https://www.helpscout.com/) | Email-based support and knowledge base for small teams. |
 | [HelpCrunch](https://helpcrunch.com/) | Live chat, CRM, and email marketing for support. |
+| [HelpDesk](https://helpdesk.com/) | AI help desk software and ticketing system. |
 | [HelpDocs](https://helpdocs.io/) | Easy-to-write documentation and knowledge base. |
 | [Helpjuice](https://helpjuice.com/) | Customizable internal and external knowledge bases. |
 | [Helpshift](https://www.helpshift.com/) | In-app support + chat for mobile apps. |
