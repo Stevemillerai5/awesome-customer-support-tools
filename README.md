@@ -134,6 +134,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Saufter](https://saufter.io/) | Ecommerce-focused automation + helpdesk software. |
 | [Social Intents](https://www.socialintents.com/) | Live chat inside Microsoft Teams and Slack. |
 | [SleekFlow](https://sleekflow.io/) | Omnichannel messaging and marketing automation. |
+| [StaffAble AI](https://staffableai.com/) | Done-for-you AI employees that answer customer messages on WhatsApp and Instagram, book appointments, follow up leads, and make calls. |
 | [SupportDesk Center](https://supportdeskcenter.com/) | Centralised helpdesk for enterprise workflows. |
 | [SysAid](https://www.sysaid.com/) | ITSM + support + automation platform. |
 | [SnatchBot](https://www.snatchbot.me/) | Free bot-building platform with multi-channel deployment. |
@@ -174,4 +175,3 @@ This project is dedicated to the public domain. You can use, modify, distribute,
 Licensed under [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
