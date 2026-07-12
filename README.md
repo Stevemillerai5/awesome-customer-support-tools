@@ -79,6 +79,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [CustomGPT AI](https://customgpt.ai/) | Build GPT-based chatbots for enterprise documentation. |
 | [Dante-AI](https://dante-ai.com/) | AI-powered chatbot trained on your business data. |
 | [Deskero](https://www.deskero.com/) | Helpdesk software with social media integration. |
+| [DeskLeap](https://deskleap.io/) | All-in-one help desk with ticketing, live chat, knowledge base, and AI automation for SMBs. |
 | [Desku](https://desku.io/) | AI support suite with helpdesk, chat, and chatbot tools. |
 | [DevRev](https://devrev.ai/) | Product-centric support and issue management for dev teams. |
 | [DiamanteDesk](https://www.diamantedesk.com/) | Open-source helpdesk built for eCommerce and CRM. |
