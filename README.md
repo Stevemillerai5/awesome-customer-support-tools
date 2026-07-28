@@ -145,6 +145,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Verloop](https://verloop.io/) | Conversational AI for customer support and sales. |
 | [Voiceflow](https://www.voiceflow.com/) | Conversation design tool for AI assistants. |
 | [Vtiger Chat](https://www.vtiger.com/) | Part of Vtiger CRM, supports real-time chat. |
+| [Workforce Wave](https://www.workforcewave.com/) | AI voice agent for phone-based customer support, handling inbound calls, appointment booking, and lead capture. |
 | [WotNot](https://wotnot.io/) | No-code chatbot platform with drag-and-drop builder. |
 | [YourGPT AI](https://yourgpt.ai/) | Full-suite AI Chatbot for customer support and automation. |
 | [Yellow AI](https://yellow.ai/) | Enterprise AI automation for chat, voice, and email. |
