@@ -67,6 +67,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Botsonic](https://botsonic.com/) | No-code AI chatbot builder for websites and SaaS tools. |
 | [Botsify](https://botsify.com/) | Multilingual chatbot platform for websites, Messenger, and WhatsApp. |
 | [Brainfish](https://brainfi.sh/) | AI-powered knowledge base tool with instant answers. |
+| [Bynevo Labs](https://bynevolabs.com/) | Self-hosted French AI agent for e-commerce customer support, GDPR-compliant, built on Mistral. |
 | [ChatBot.com](https://www.chatbot.com/) | All-in-one live chat and chatbot solution for customer support. |
 | [ChatSimple AI](https://chatsimple.ai/) | Fast, no-code AI chatbot for websites and WhatsApp. |
 | [Chatbees AI](https://chatbees.ai/) | Chatbot builder with multi-channel integration. |
