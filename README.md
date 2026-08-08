@@ -128,6 +128,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Pipefy](https://www.pipefy.com/) | Workflow automation and support process management. |
 | [Podium](https://www.podium.com/) | Customer interaction and feedback platform. |
 | [Re:amaze](https://www.reamaze.com/) | Multichannel helpdesk and marketing automation. |
+| [ReviewReply](https://joinreviewreply.com) | Free AI tool that drafts professional replies to Google/Yelp/TripAdvisor reviews, no signup required. |
 | [Richpanel](https://www.richpanel.com/) | Shopify helpdesk with self-service flows. |
 | [Ringg AI](https://ringg.ai/) | AI voice support for customer-facing teams. |
 | [Salesforce Chat](https://www.salesforce.com/) | Real-time chat embedded in Salesforce platform. |
