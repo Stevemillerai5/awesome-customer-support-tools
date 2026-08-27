@@ -101,6 +101,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [HelpDocs](https://helpdocs.io/) | Easy-to-write documentation and knowledge base. |
 | [Helpjuice](https://helpjuice.com/) | Customizable internal and external knowledge bases. |
 | [Helpshift](https://www.helpshift.com/) | In-app support + chat for mobile apps. |
+| [Hermes](https://buildwithhermes.com/) | White-label AI voice agent platform for agencies, with built-in CRM and outbound campaigns. |
 | [Hesk](https://www.hesk.com/) | Free PHP help desk software with email piping. |
 | [Hiver](https://hiverhq.com/) | Gmail-based helpdesk and team inbox. |
 | [HubSpot](https://hubspot.com/) | CRM with built-in support ticketing, live chat, and automation. |
