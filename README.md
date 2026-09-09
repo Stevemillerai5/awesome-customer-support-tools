@@ -105,6 +105,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Hiver](https://hiverhq.com/) | Gmail-based helpdesk and team inbox. |
 | [HubSpot](https://hubspot.com/) | CRM with built-in support ticketing, live chat, and automation. |
 | [Intercom](https://intercom.com/) | AI-first customer service platform for modern support. |
+| [IrisAgent](https://irisagent.com/) | AI support overlay for Zendesk/Salesforce/Intercom/Freshworks; grounded resolution, agent assist, AutoQA. |
 | [Issuetrak](https://www.issuetrak.com/) | Issue tracking + helpdesk solution for enterprises. |
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | Email-based helpdesk with automation and ticketing. |
 | [Jotform](https://www.jotform.com/) | Forms and workflows to streamline customer support. |
