@@ -133,11 +133,11 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Salesforce Chat](https://www.salesforce.com/) | Real-time chat embedded in Salesforce platform. |
 | [Saufter](https://saufter.io/) | Ecommerce-focused automation + helpdesk software. |
 | [Scitor](https://www.scitor.io/) | Turns customer emails into GitHub Issues, so developer teams can reply and triage support without leaving GitHub. |
-| [Social Intents](https://www.socialintents.com/) | Live chat inside Microsoft Teams and Slack. |
 | [SleekFlow](https://sleekflow.io/) | Omnichannel messaging and marketing automation. |
+| [SnatchBot](https://www.snatchbot.me/) | Free bot-building platform with multi-channel deployment. |
+| [Social Intents](https://www.socialintents.com/) | Live chat inside Microsoft Teams and Slack. |
 | [SupportDesk Center](https://supportdeskcenter.com/) | Centralised helpdesk for enterprise workflows. |
 | [SysAid](https://www.sysaid.com/) | ITSM + support + automation platform. |
-| [SnatchBot](https://www.snatchbot.me/) | Free bot-building platform with multi-channel deployment. |
 | [Talkdesk](https://www.talkdesk.com/) | Enterprise contact center powered by AI. |
 | [TeamSupport](https://www.teamsupport.com/) | B2B customer support platform with customer insights. |
 | [Tidio](https://www.tidio.com/) | AI-powered live chat and chatbot for ecommerce. |
