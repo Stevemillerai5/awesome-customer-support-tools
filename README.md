@@ -132,6 +132,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Ringg AI](https://ringg.ai/) | AI voice support for customer-facing teams. |
 | [Salesforce Chat](https://www.salesforce.com/) | Real-time chat embedded in Salesforce platform. |
 | [Saufter](https://saufter.io/) | Ecommerce-focused automation + helpdesk software. |
+| [Scitor](https://www.scitor.io/) | Turns customer emails into GitHub Issues, so developer teams can reply and triage support without leaving GitHub. |
 | [Social Intents](https://www.socialintents.com/) | Live chat inside Microsoft Teams and Slack. |
 | [SleekFlow](https://sleekflow.io/) | Omnichannel messaging and marketing automation. |
 | [SupportDesk Center](https://supportdeskcenter.com/) | Centralised helpdesk for enterprise workflows. |
