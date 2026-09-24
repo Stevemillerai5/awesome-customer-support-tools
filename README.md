@@ -126,6 +126,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Olark](https://www.olark.com/) | Live chat software with automation and reporting. |
 | [osTicket](https://osticket.com/) | Open-source support ticket system. |
 | [Pipefy](https://www.pipefy.com/) | Workflow automation and support process management. |
+| [Pipp](https://pipp.so/) | Shared email support inbox for small teams, with AI assistance; currently prelaunch. |
 | [Podium](https://www.podium.com/) | Customer interaction and feedback platform. |
 | [Re:amaze](https://www.reamaze.com/) | Multichannel helpdesk and marketing automation. |
 | [Richpanel](https://www.richpanel.com/) | Shopify helpdesk with self-service flows. |
