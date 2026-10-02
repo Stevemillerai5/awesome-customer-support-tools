@@ -73,6 +73,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [ChatThing AI](https://chatthing.ai/) | Easy-to-train GPT-powered chatbot for custom websites. |
 | [ClickDesk](https://www.clickdesk.com/) | Live chat + voice + helpdesk combo tool. |
 | [CloudTalk](https://www.cloudtalk.io/) | Call center software for customer support and sales. |
+| [Communicate](https://communicate.so/) | AI customer support with a knowledge-grounded website chat widget, shared inbox, and human handoff. |
 | [Conversica](https://www.conversica.com/) | AI-powered virtual assistants for sales and customer success. |
 | [Crisp](https://crisp.chat/) | Shared inbox, live chat, and chatbot for startups and SMBs. |
 | [Custify](https://www.custify.com/) | Customer success platform to reduce churn and improve retention. |
