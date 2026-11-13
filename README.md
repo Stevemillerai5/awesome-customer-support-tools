@@ -86,6 +86,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Document360](https://document360.com/) | Knowledge base software for self-service help. |
 | [Drift](https://www.drift.com/) | AI-powered conversational marketing and support platform. |
 | [Faveo Helpdesk](https://www.faveohelpdesk.com/) | Open-source ticketing and helpdesk software. |
+| [FeedLog](https://feedlog.ai/) | Open-source AI customer support platform for SaaS teams. |
 | [Forethought](https://forethought.ai/) | AI agent to resolve tickets automatically. |
 | [Freshdesk](https://freshdesk.com/) | All-in-one omnichannel helpdesk platform. |
 | [Freshservice](https://freshservice.com/) | ITSM solution for internal service and support teams. |
