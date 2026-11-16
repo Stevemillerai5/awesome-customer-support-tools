@@ -150,6 +150,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Yellow AI](https://yellow.ai/) | Enterprise AI automation for chat, voice, and email. |
 | [Yuma AI](https://www.yuma.ai/) | GPT-4-powered support automation tool for Shopify. |
 | [Zendesk](https://www.zendesk.com/) | Enterprise-grade helpdesk and ticketing solution. |
+| [Zentesimal](https://www.zentesimal.com/) | AI customer support teams you build and run from Claude or ChatGPT. |
 | [Zight](https://www.zight.com/) | Screen recording, screenshots, and async support. |
 | [Zoko](https://www.zoko.io/) | Messaging platform for shopify stores. |
 | [Zoho Desk](https://www.zoho.com/desk/) | Context-aware helpdesk software for customer support. |
