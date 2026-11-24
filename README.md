@@ -119,6 +119,7 @@ Below is the list of 100 customer support tools, each with a brief placeholder f
 | [Lindy](https://www.lindy.ai/) | Personal AI assistant for managing tasks and emails. |
 | [LiveAgent](https://www.liveagent.com/) | Helpdesk, live chat, and ticketing system. |
 | [LiveChat](https://www.livechat.com/) | Customer messaging tool for websites and apps. |
+| [Message.com](https://www.message.com/) | Shared support inbox for website chats, email tickets, and business calls. |
 | [NICE CXone](https://www.nice.com/) | Omnichannel cloud contact center software. |
 | [Nextiva](https://www.nextiva.com/) | VoIP + contact center + team collaboration tool. |
 | [Nicereply](https://www.nicereply.com/) | CSAT and NPS ratings via email, chat, and helpdesk. |
